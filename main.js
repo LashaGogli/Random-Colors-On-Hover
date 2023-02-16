@@ -4,7 +4,7 @@ let smallDivs;
 
 
 
-for (let i = 0; i < 1200; i++) {
+for (let i = 0; i < 660; i++) {
     smallDivs = document.createElement("div");
     smallDivs.classList.add("smallDivs");
     charchoDiv.appendChild(smallDivs);

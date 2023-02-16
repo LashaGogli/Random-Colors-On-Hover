@@ -8,8 +8,8 @@
 }
 
 .charchoDiv{
-    width: 1200px;
-    height: 900px;
+    width: 1000px;
+    height: 600px;
     background-color:rgb(16,16,16);
     display: flex;
     flex-wrap: wrap;
