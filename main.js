@@ -31,7 +31,7 @@ boxes.forEach(box => {
 
 
         box.style.backgroundColor = "#505050";
-        box.style.transitionDuration = "2.5s";
+        box.style.transitionDuration = "2s";
         box.style.boxShadow = "none";
         box.style.opacity="20%";
 
