@@ -17,8 +17,9 @@ boxes.forEach(box => {
         const randomColor = '#' + Math.floor(Math.random() * 16777215).toString(16);
         let y = randomColor;
         box.style.backgroundColor = randomColor;
-        box.style.opacity="100%";
-        box.style.boxShadow=   "0px 0px 30px 4px" + y ;
+        box.style.opacity = "100%";
+        box.style.boxShadow = "0px 0px 30px 4px" + y;
+        box.style.transitionDuration = "0s";
 
 
 
@@ -33,7 +34,7 @@ boxes.forEach(box => {
         box.style.backgroundColor = "#505050";
         box.style.transitionDuration = "2s";
         box.style.boxShadow = "none";
-        box.style.opacity="20%";
+        box.style.opacity = "20%";
 
 
 
