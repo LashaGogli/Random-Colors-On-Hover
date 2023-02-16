@@ -21,8 +21,9 @@
     width: 25px;
     height: 25px;
     background-color: #505050;
-    
     opacity: 20%;
+    border: solid 0.2px #000000;
+    border-radius: 2px;
 
 
 }
