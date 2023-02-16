@@ -1,0 +1,28 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-color:	rgb(16,16,16);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.charchoDiv{
+    width: 1200px;
+    height: 900px;
+    background-color:rgb(16,16,16);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    
+
+}
+.smallDivs{
+    width: 25px;
+    height: 25px;
+    background-color: #505050;
+    
+    opacity: 20%;
+
+
+}
