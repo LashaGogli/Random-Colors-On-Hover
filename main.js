@@ -43,7 +43,7 @@ boxes.forEach(box => {
         box.style.transitionDuration = "2s";
         box.style.boxShadow = "none";
         box.style.opacity = "20%";
-        pauseAudio();
+        // pauseAudio();
 
 
 
